@@ -1,0 +1,22 @@
+.filter-label {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.filter-input {
+  height: 40px;
+  width: 400px;
+  outline: none;
+  margin-top: 15px;
+  border-radius: 8px;
+  padding-left: 10px;
+  font-size: 18px;
+  font-weight: 500;
+  border: solid 3px black;
+}
+
+.filter-input:focus {
+  border-color: #698aed;
+}
+/*# sourceMappingURL=Filter.css.map */  
